@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(135,206,235);
+}
+.first{
+		background-color: black;
+		color: white;
+}
+.third{
+	color:red;
+	padding:10px;
+}
+ul{
+	width: 50%
+}
+.st{
+	background-color:white;
+	font-size: 22px;
+}
+.nd{
+	background-color:gray;
+}
+.rd{
+	background-color:pink;
+}
+.th{
+	background-color:gray;
+}
+.thh{
+	background-color:white;
+	font-size: 22px;
+}
